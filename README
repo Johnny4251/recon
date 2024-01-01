@@ -13,7 +13,7 @@ Usage:
 
 >> ./recon.sh <IP>
 
-I would highly reccoment you run command
+I would highly reccomend you run command
 --> >> alias recon.sh=./recon.sh
 
 This will allow you to startup by running command
